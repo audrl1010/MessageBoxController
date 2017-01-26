@@ -13,6 +13,8 @@
 		747C84161E39B17D00B790B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 747C84151E39B17D00B790B9 /* Assets.xcassets */; };
 		747C84191E39B17D00B790B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 747C84171E39B17D00B790B9 /* LaunchScreen.storyboard */; };
 		747C84221E39B19000B790B9 /* MessageBoxController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 747C84211E39B19000B790B9 /* MessageBoxController.swift */; };
+		747C84251E39C11000B790B9 /* 스크린샷 2017-01-26 오후 2.12.44.png in Resources */ = {isa = PBXBuildFile; fileRef = 747C84231E39C11000B790B9 /* 스크린샷 2017-01-26 오후 2.12.44.png */; };
+		747C84261E39C11000B790B9 /* 스크린샷 2017-01-26 오후 2.12.22.png in Resources */ = {isa = PBXBuildFile; fileRef = 747C84241E39C11000B790B9 /* 스크린샷 2017-01-26 오후 2.12.22.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		747C84181E39B17D00B790B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		747C841A1E39B17D00B790B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		747C84211E39B19000B790B9 /* MessageBoxController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MessageBoxController.swift; sourceTree = "<group>"; };
+		747C84231E39C11000B790B9 /* 스크린샷 2017-01-26 오후 2.12.44.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2017-01-26 오후 2.12.44.png"; sourceTree = "<group>"; };
+		747C84241E39C11000B790B9 /* 스크린샷 2017-01-26 오후 2.12.22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2017-01-26 오후 2.12.22.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				747C84121E39B17D00B790B9 /* Main.storyboard */,
 				747C84151E39B17D00B790B9 /* Assets.xcassets */,
 				747C84171E39B17D00B790B9 /* LaunchScreen.storyboard */,
+				747C84231E39C11000B790B9 /* 스크린샷 2017-01-26 오후 2.12.44.png */,
+				747C84241E39C11000B790B9 /* 스크린샷 2017-01-26 오후 2.12.22.png */,
 				747C841A1E39B17D00B790B9 /* Info.plist */,
 			);
 			path = MessageBoxControllerDemo;
@@ -134,7 +140,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				747C84251E39C11000B790B9 /* 스크린샷 2017-01-26 오후 2.12.44.png in Resources */,
 				747C84191E39B17D00B790B9 /* LaunchScreen.storyboard in Resources */,
+				747C84261E39C11000B790B9 /* 스크린샷 2017-01-26 오후 2.12.22.png in Resources */,
 				747C84161E39B17D00B790B9 /* Assets.xcassets in Resources */,
 				747C84141E39B17D00B790B9 /* Main.storyboard in Resources */,
 			);
